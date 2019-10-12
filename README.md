@@ -17,8 +17,9 @@ Morgan feature define the http request logs
 look at [documentation](https://github.com/expressjs/morgan) for more details  
 
 ## Multer
-Multer feature is a middlware multipart/form-data handler
-set the type file attribute in form and setting the multer to get the fieldname.
+Multer feature is a middlware multipart/form-data handler.  
+Set the type file attribute in form and setting the multer to get the fieldname  
+from form.
 
 `$ npm install -s multer`
 
