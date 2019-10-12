@@ -1,6 +1,11 @@
 # Learning upload images
 
 features used on project REST API for backend
+just type in command line  
+
+`$ npm install` or `$ yarn install`
+
+the followings over features will be installed.
 
 ## Morgan
 Morgan feature define the http request logs
